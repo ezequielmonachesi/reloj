@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+
+body{
+    background: black;
+
+}
+h2{
+    color: #fff;
+    font-family: 'Orbitron', sans-serif;
+}
+.textoRojo{
+    text-shadow: 0 0 5px #f94b4b,
+    0 0 10px #f94b4b,
+    0 0 15px #f94b4b,
+    0 0 20px #f94b4b,
+    0 0 25px #f94b4b,
+    0 0 30px #f94b4b,
+    0 0 35px #f94b4b,
+    0 0 40px #f94b4b,
+    0 0 50px #f94b4b,
+    0 0 60px #f94b4b
+}
+
+.textoAmarillo{
+    text-shadow: 0 0 5px #eaef49,
+    0 0 10px #eaef49,
+    0 0 15px #eaef49,
+    0 0 20px #eaef49,
+    0 0 25px #eaef49,
+    0 0 30px #eaef49,
+    0 0 35px #eaef49,
+    0 0 40px #eaef49,
+    0 0 50px #eaef49,
+    0 0 60px #eaef49
+}
+.textoVerde{
+    text-shadow: 0 0 5px #4eeb68ff,
+    0 0 10px #4eeb68ff,
+    0 0 15px #4eeb68ff,
+    0 0 20px #4eeb68ff,
+    0 0 25px #4eeb68ff,
+    0 0 30px #4eeb68ff,
+    0 0 35px #4eeb68ff,
+    0 0 40px #4eeb68ff,
+    0 0 50px #4eeb68ff,
+    0 0 60px #4eeb68ff
+}
+.btnRojo{
+    background: #f94b4b;
+    color: #000;
+}
+.btnRojo:hover{
+    background: transparent;
+    color: #f94b4b;
+    border: 1px solid #f94b4b;
+}
+.btnAmarillo{
+    background: #eaef49;
+    color: #000;
+}
+.btnAmarillo:hover{
+    background: transparent;
+    color: #eaef49;
+    border: 1px solid #eaef49;
+}
+.btnVerde{
+    background: #4eeb68ff;
+    color: #000;
+}
+.btnVerde:hover{
+    background: transparent;
+    color: #4eeb68ff;
+    border: 1px solid #4eeb68ff;
+}
